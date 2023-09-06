@@ -1,5 +1,5 @@
 
-👋 Hi, I’m [@Eftekharul24](https://github.com/Eftekharul24), a passionate software developer and data enthusiast.
+👋 Hi, I’m @Eftekharul24](https://github.com/Eftekharul24), a passionate software developer and data enthusiast.
 
 👀 I’m interested in:
 - Full-stack web development, especially with modern JavaScript frameworks like React.
@@ -25,7 +25,7 @@
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/eftekharul24/) and [Twitter](https://twitter.com/YourTwitterHandle) to stay updated on my latest projects and thoughts.
 
-🌐 Visit my personal website [www.yourwebsite.com](https://www.yourwebsite.com) to learn more about my work and projects.
+🌐 Visit my personal website (https://github.com/Eftekharul24) to learn more about my work and projects.
 
 🚀 Let's code, learn, and build together to make a difference in the tech world!
 
