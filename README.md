@@ -28,9 +28,6 @@
 🌐 Visit my personal website [www.yourwebsite.com](https://www.yourwebsite.com) to learn more about my work and projects.
 
 🚀 Let's code, learn, and build together to make a difference in the tech world!
-```
-
-This template provides more detailed information about your interests, what you're currently learning and working on, your tech stack, and ways to contact you. Remember to replace the placeholders with your actual information and URLs to personalize it.
 
 <!---
 Eftekharul24/Eftekharul24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
