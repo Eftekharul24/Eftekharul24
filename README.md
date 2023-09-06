@@ -25,7 +25,7 @@
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/eftekharul24/) and [Twitter](https://twitter.com/YourTwitterHandle) to stay updated on my latest projects and thoughts.
 
-🌐 Visit my personal website [(https://github.com/Eftekharul24)] to learn more about my work and projects.
+🌐 Visit my personal website (https://github.com/Eftekharul24) to learn more about my work and projects.
 
 🚀 Let's code, learn, and build together to make a difference in the tech world!
 
