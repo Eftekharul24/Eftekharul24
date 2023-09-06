@@ -21,8 +21,6 @@
 - Frameworks: React, Node.js, Flask.
 - Tools: Git, VS Code, Jupyter Notebook.
 
-📫 Feel free to reach out at [your-email@example.com](mailto:your-email@example.com) for collaboration or discussions.
-
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/eftekharul24/) and [Twitter](https://twitter.com/YourTwitterHandle) to stay updated on my latest projects and thoughts.
 
 🌐 Visit my personal website (https://github.com/Eftekharul24) to learn more about my work and projects.
